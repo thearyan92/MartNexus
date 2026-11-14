@@ -703,7 +703,7 @@ MartNexus/
 
 ## 📄 License & Authors
 
-- **Author**: [Aryan Mittal](https://github.com/heyaryanmittal)
+- **Author**: [Aryan Sharma](https://github.com/thearyan92)
 - **Live Platform**: [mart-nexus.vercel.app](https://mart-nexus.vercel.app)
 - **Backend API**: [mart-nexus-backend.vercel.app](https://mart-nexus-backend.vercel.app)
 - **License**: Proprietary software. All rights reserved.
